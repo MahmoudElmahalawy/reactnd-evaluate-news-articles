@@ -1,0 +1,19 @@
+body {
+	background: #25a3ff;
+	font-family: "verdana", sans-serif;
+
+	.container {
+		max-width: 1100px;
+		margin: 0 auto;
+		text-align: center;
+
+		p {
+			display: block;
+			margin: 3rem auto;
+			padding: 1rem 10px;
+			font-size: large;
+			color: #fff;
+			border: 3px solid #fff;
+		}
+	}
+}

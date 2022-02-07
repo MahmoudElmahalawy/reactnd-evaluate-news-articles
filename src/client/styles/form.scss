@@ -1,0 +1,39 @@
+#form {
+	background: #fff;
+	width: 410px;
+	margin: 0 auto;
+	padding: 2px 15px 20px 15px;
+	box-shadow: 0 16px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12),
+		0 8px 10px -5px rgba(0, 0, 0, 0.3);
+	transition: transform 0.1s ease-in-out;
+
+	label {
+		display: block;
+		margin-top: 1rem;
+		margin-bottom: 2rem;
+	}
+
+	input {
+		width: 100%;
+		padding: 10px 5px;
+		border: none;
+		font-size: 20px;
+		font-weight: bold;
+		outline: 0;
+		background: transparent;
+		box-shadow: none;
+		border-bottom: 3px solid #25a3ff;
+	}
+
+	button {
+		margin-top: 2rem;
+		margin-bottom: 1rem;
+		width: 75%;
+		height: 50px;
+		border: 2px solid #25a3ff;
+		color: #25a3ff;
+		background-color: transparent;
+		font-family: "verdana";
+		cursor: pointer;
+	}
+}
