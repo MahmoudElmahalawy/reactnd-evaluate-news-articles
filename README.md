@@ -15,12 +15,12 @@ A tool that uses Meaning Cloud free api to analyze articles, news or blogs and e
 ### Launching
 
 -   Start server on port 8081 with `npm run start`.
--   Run client on port 8080 in development mode with `npm run build-dev`.
+-   Run client side on port 8080 in development mode with `npm run build-dev`.
 
 ### Building
 
--   Build project in with `npm run build-prod`.
+-   Build project with `npm run build-prod`.
 
 ### Testing
 
--   Test using with `npm run test`.
+-   Test using `npm run test`.
